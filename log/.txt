@@ -1,0 +1,719 @@
+2024-04-20 12:30:13 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 12:35:11 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 13:51:13 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:15:08 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:20:57 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:22:31 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:23:27 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:25:57 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:26:16 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 14:28:05 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:28:19 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 14:32:08 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 14:32:14 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 15:20:48 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 15:20:51 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 15:21:39 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 15:21:42 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:11:42 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:11:46 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:13:09 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:13:13 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:21:37 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:21:47 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:30:05 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:30:11 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:38:24 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:38:31 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:42:27 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:43:20 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:46:16 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:46:20 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:46:42 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:46:46 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:47:51 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:48:00 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:54:07 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:54:16 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 20:57:32 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 20:57:35 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 21:01:09 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:01:12 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 21:01:12 INFO  BasePage:44 -  keyi gönderildi
+2024-04-20 21:03:01 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:03:03 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 21:04:41 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:04:59 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:06:15 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:06:17 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-20 21:06:17 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:06:59 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:07:01 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:15:08 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:15:10 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:15:40 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:15:47 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:23:00 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:23:03 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:28:49 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:28:54 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:31:06 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:31:11 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:33:22 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:33:24 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:39:21 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:39:23 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:40:17 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:40:19 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:47:27 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:47:29 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:51:00 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:51:01 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 21:58:50 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 21:58:51 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:01:34 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:01:35 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:02:01 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:02:04 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:02:27 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:02:29 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:03:53 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:03:55 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:05:20 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:05:22 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:05:42 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:05:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:06:15 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:06:19 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:41:41 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:41:43 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:42:44 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:42:50 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:43:21 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:43:23 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:44:01 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:44:03 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:48:37 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:48:40 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:49:19 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:49:22 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:49:56 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:49:59 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:50:37 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:50:38 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:54:18 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:54:19 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 22:57:05 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 22:57:07 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:04:41 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:04:44 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:06:44 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:06:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:07:08 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:07:10 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:08:03 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:08:06 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:10:45 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:10:49 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:11:31 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:11:33 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:12:10 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:12:12 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:15:02 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:15:07 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:19:09 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:19:14 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:21:53 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:21:55 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:23:27 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:23:30 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:29:34 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:29:35 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:32:54 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:32:58 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-20 23:33:50 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-20 23:33:52 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:12:49 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:13:01 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:19:09 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:19:10 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:30:24 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:30:25 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:34:50 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:34:50 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:36:43 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:36:44 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:38:42 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:38:43 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:41:46 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:41:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:42:23 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:42:24 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:46:25 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-21 10:46:26 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-21 10:46:29 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:47:20 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 10:47:21 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 10:47:24 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:47:27 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:47:30 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:47:33 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:49:05 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 10:49:05 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 10:49:08 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:49:11 INFO  BasePage:84 - 3saniye beklendi
+2024-04-22 10:57:14 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 10:57:14 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 10:57:16 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:00:54 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:00:55 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:00:57 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:00:59 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:02:41 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:02:42 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:02:44 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:02:46 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:02:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:03:08 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:03:09 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:03:11 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:03:13 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:03:13 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:03:30 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:03:31 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:03:33 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:03:35 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:03:35 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:05:23 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:05:24 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:05:26 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:05:28 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:05:28 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:07:28 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:07:29 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:07:31 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:07:33 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:07:33 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:07:59 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:08:00 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:08:02 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:08:04 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:08:04 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:14:34 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:14:35 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:14:37 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:14:39 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:14:39 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:24:36 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:24:36 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:24:37 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:24:38 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:24:39 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:33:05 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:33:20 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:33:20 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:33:22 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:33:23 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:33:23 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:35:45 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:35:46 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:35:47 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:35:48 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:35:48 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:44:35 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:44:36 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:44:37 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:44:38 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:44:38 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:44:53 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:44:54 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:44:55 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:44:56 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 11:44:56 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 11:52:28 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 11:52:29 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 11:52:31 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:52:33 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 11:52:33 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 12:03:39 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 12:03:40 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 12:03:42 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 12:03:44 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 12:03:44 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 15:45:04 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 15:45:05 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 15:45:07 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:45:09 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:45:09 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 15:48:50 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 15:48:51 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 15:48:53 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:48:55 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:48:55 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 15:49:41 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 15:49:42 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 15:49:44 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:49:46 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:49:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 15:50:50 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 15:50:51 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 15:50:53 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:50:55 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:50:55 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 15:50:59 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:51:03 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:51:19 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 15:51:20 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 15:51:22 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:51:24 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:51:24 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 15:51:38 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:51:49 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:52:21 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 15:52:21 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 15:52:23 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:52:25 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 15:52:26 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:00:53 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:00:54 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:00:56 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:00:58 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:00:58 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:03:52 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:03:53 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:03:55 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:03:57 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:03:57 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:05:01 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:05:02 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:05:04 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:05:06 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:05:06 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:16:31 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:16:32 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:16:34 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:16:36 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:16:36 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:19:29 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:19:30 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:19:32 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:23:02 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:23:02 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:23:04 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:23:07 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:23:07 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:23:35 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:23:36 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:23:38 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:23:40 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:23:40 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:24:12 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:24:12 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:24:14 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:24:16 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:24:16 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:24:33 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:24:34 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:24:36 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:24:38 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:24:38 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:24:58 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:24:59 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:25:01 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:25:03 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:25:03 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:27:55 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:27:56 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:27:58 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:28:00 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:28:00 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:31:18 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:31:19 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:31:21 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:31:23 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:31:23 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:32:00 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:32:01 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:32:03 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:32:05 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 16:32:05 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:43:24 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:43:25 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:43:27 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:43:29 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:43:29 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:44:20 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:44:21 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:44:23 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:44:25 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:44:25 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:44:56 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:44:57 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:44:59 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:45:01 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:45:01 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:46:41 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:46:42 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:46:44 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:46:46 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:46:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:47:24 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:47:24 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:47:26 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:47:28 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:47:29 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:50:13 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:50:14 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:50:16 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:50:18 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:50:18 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 16:52:16 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 16:52:17 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 16:52:19 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:52:21 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 16:52:21 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:27:22 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:27:23 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:27:25 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:27:27 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:27:27 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:33:14 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:33:14 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:33:16 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:33:18 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:33:19 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:33:36 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:33:37 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:33:39 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:33:41 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:33:41 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:45:01 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:45:02 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:45:04 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:45:06 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:45:06 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:47:28 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:47:29 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:47:31 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:47:33 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:47:33 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:49:42 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:49:42 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:49:44 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:49:46 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:49:46 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:51:16 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:51:16 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:51:18 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:51:21 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:51:21 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:51:49 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:51:49 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:51:51 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:51:53 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:51:53 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:53:13 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:53:14 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:53:15 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 21:53:16 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 21:53:16 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:53:22 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 21:55:12 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:55:13 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:55:14 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 21:55:15 INFO  BasePage:84 - 1saniye beklendi
+2024-04-22 21:55:15 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:55:34 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:55:35 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:55:37 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:55:39 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:55:39 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:55:45 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:56:02 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:56:02 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:56:04 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:56:06 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:56:06 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 21:56:40 INFO  BasePage:51 - currenthttps://www.beymen.com/
+2024-04-22 21:56:41 INFO  BasePage:44 - şort keyi gönderildi
+2024-04-22 21:56:43 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:56:45 INFO  BasePage:84 - 2saniye beklendi
+2024-04-22 21:56:45 INFO  BasePage:44 - gömlek keyi gönderildi
+2024-04-22 22:16:03 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:16:04 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:16:06 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:16:08 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:16:08 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:18:15 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:18:16 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:18:18 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:18:20 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:18:20 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:21:41 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:21:42 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:21:44 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:21:46 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:21:46 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:23:23 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:23:24 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:23:26 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:23:28 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:23:28 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:27:30 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:27:31 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:27:33 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:27:35 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:27:35 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:37:39 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:37:39 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:37:41 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:37:43 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:37:44 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:38:10 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:38:11 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:38:13 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:38:15 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:38:15 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:38:36 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:38:36 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:38:38 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:38:40 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:38:41 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:39:21 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:39:22 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:39:24 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:39:26 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:39:26 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:39:42 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:39:43 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:39:45 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:39:47 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:39:47 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:40:04 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:40:04 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:40:06 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:40:08 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:40:08 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:40:25 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:40:26 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:40:28 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:40:30 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:40:30 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:41:45 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:41:46 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:41:48 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:41:50 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:41:50 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:42:18 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:42:19 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:42:21 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:42:23 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:42:23 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:58:29 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:58:30 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:58:32 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:58:34 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:58:34 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:58:56 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:58:56 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:58:58 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:59:00 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:59:00 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:59:19 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 22:59:20 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 22:59:22 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:59:24 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 22:59:24 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 22:59:32 INFO  BasePage:99 - 2 adet ürün var
+2024-04-22 23:01:56 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 23:01:57 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 23:01:59 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:02:01 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:02:01 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 23:02:12 INFO  BasePage:99 - 2 adet ürün var
+2024-04-22 23:02:42 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 23:02:43 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 23:02:45 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:02:47 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:02:47 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 23:02:55 INFO  BasePage:99 - 2 adet ürün var
+2024-04-22 23:02:57 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:04:13 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-22 23:04:14 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-22 23:04:16 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:04:18 INFO  BasePage:87 - 2saniye beklendi
+2024-04-22 23:04:18 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-22 23:04:26 INFO  BasePage:99 - 2 adet ürün var
+2024-04-22 23:04:28 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 19:37:46 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 19:37:47 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 19:37:49 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 19:37:51 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 19:37:51 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 19:37:59 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 19:38:01 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:05:19 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:05:20 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:05:22 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:05:24 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:05:24 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:06:04 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:06:04 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:06:06 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:06:08 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:06:08 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:09:37 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:09:38 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:09:40 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:09:42 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:09:42 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:10:34 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:10:35 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:10:37 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:10:39 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:10:39 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:12:59 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:13:00 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:13:02 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:13:04 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:13:04 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:13:28 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:13:29 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:13:31 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:13:34 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:13:34 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:13:55 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:13:56 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:13:58 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:14:00 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:14:00 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:16:34 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:16:35 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:16:37 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:16:39 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:16:39 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:17:05 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:17:06 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:17:08 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:17:10 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:17:10 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:17:20 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:17:22 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:17:34 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:17:34 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:17:36 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:17:39 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:17:39 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:17:59 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:18:00 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:18:02 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:18:04 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:18:04 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:18:13 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:18:15 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:18:35 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:18:35 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:18:37 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:18:40 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:18:40 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:19:26 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:19:27 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:19:29 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:19:31 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:19:31 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:22:57 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:22:58 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:23:00 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:23:02 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:23:02 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:23:32 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:23:33 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:23:35 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:23:37 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:23:38 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:23:54 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:23:57 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:24:11 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:24:12 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:24:14 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:24:16 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:24:16 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:24:25 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:24:27 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:24:43 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:24:44 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:24:46 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:24:48 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:24:48 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:25:00 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:25:02 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:25:13 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:25:13 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:25:16 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:25:18 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:25:18 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:25:26 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:25:28 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:39:36 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:39:37 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:39:39 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:39:41 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:39:41 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:40:08 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:40:26 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:40:27 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:40:29 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:40:31 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:40:31 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:44:00 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:44:02 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:44:04 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:44:06 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:44:06 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:46:07 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-23 20:46:08 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-23 20:46:10 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:46:12 INFO  BasePage:87 - 2saniye beklendi
+2024-04-23 20:46:12 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-23 20:46:24 INFO  BasePage:99 - 2 adet ürün var
+2024-04-23 20:46:26 INFO  BasePage:87 - 2saniye beklendi
+2024-04-24 09:55:02 INFO  BasePage:54 - currenthttps://www.beymen.com/
+2024-04-24 09:55:03 INFO  BasePage:47 - şort keyi gönderildi
+2024-04-24 09:55:05 INFO  BasePage:87 - 2saniye beklendi
+2024-04-24 09:55:07 INFO  BasePage:87 - 2saniye beklendi
+2024-04-24 09:55:07 INFO  BasePage:47 - gömlek keyi gönderildi
+2024-04-24 09:55:14 INFO  BasePage:99 - 2 adet ürün var
+2024-04-24 09:55:16 INFO  BasePage:87 - 2saniye beklendi
+2024-04-24 10:53:36 INFO  BasePage:58 - currenthttps://www.beymen.com/
+2024-04-24 10:53:37 INFO  BasePage:51 - şort keyi gönderildi
+2024-04-24 10:53:39 INFO  BasePage:91 - 2saniye beklendi
+2024-04-24 10:53:41 INFO  BasePage:91 - 2saniye beklendi
+2024-04-24 10:53:41 INFO  BasePage:51 - gömlek keyi gönderildi
+2024-04-24 10:55:16 INFO  BasePage:58 - currenthttps://www.beymen.com/
+2024-04-24 10:55:17 INFO  BasePage:51 - şort keyi gönderildi
+2024-04-24 10:57:53 INFO  BasePage:58 - currenthttps://www.beymen.com/
+2024-04-24 10:57:54 INFO  BasePage:51 - şort keyi gönderildi
+2024-04-24 11:00:09 INFO  BasePage:58 - currenthttps://www.beymen.com/
+2024-04-24 11:00:10 INFO  BasePage:51 - şort keyi gönderildi
+2024-04-24 11:02:26 INFO  BasePage:58 - currenthttps://www.beymen.com/
+2024-04-24 11:02:26 INFO  BasePage:51 - şort keyi gönderildi
+2024-04-24 11:09:04 INFO  BasePage:62 - currenthttps://www.beymen.com/
+2024-04-24 11:09:05 INFO  BasePage:55 - şort keyi gönderildi
+2024-04-24 11:09:49 INFO  BasePage:62 - currenthttps://www.beymen.com/
+2024-04-24 11:09:49 INFO  BasePage:55 - şort keyi gönderildi
+2024-04-24 11:14:30 INFO  BasePage:62 - currenthttps://www.beymen.com/
+2024-04-24 11:14:31 INFO  BasePage:55 - şort keyi gönderildi
+2024-04-24 11:15:50 INFO  BasePage:62 - currenthttps://www.beymen.com/
+2024-04-24 11:15:51 INFO  BasePage:55 - şort keyi gönderildi
+2024-04-24 11:15:53 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:15:55 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:15:55 INFO  BasePage:55 - gömlek keyi gönderildi
+2024-04-24 11:16:03 INFO  BasePage:107 - 2 adet ürün var
+2024-04-24 11:16:05 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:22:27 INFO  BasePage:62 - currenthttps://www.beymen.com/
+2024-04-24 11:22:30 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:22:32 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:22:53 INFO  BasePage:62 - currenthttps://www.beymen.com/
+2024-04-24 11:22:56 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:22:58 INFO  BasePage:95 - 2saniye beklendi
+2024-04-24 11:25:35 INFO  BasePage:62 - currenthttps://www.beymen.com/
